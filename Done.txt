@@ -1,0 +1,9 @@
+- list all cart products => DONE
+- Total items price =>  DONE
+- minus amount => DONE
+- detect amount input change => Done
+- plus amount => DONE
+- delete product from cart  => DONE
+- clear cart =>DONE
+- get cart length = > how many items in the cart => Done
+- send cart to the api => Done
